@@ -1,8 +1,10 @@
+// pages/dashboard.js
+
 export default function Dashboard() {
   return (
-    <div style={{ padding: 20 }}>
-      <h1>Dashboard Utente</h1>
-      <p>Qui ci sarà il pannello personale dell'utente in base al ruolo.</p>
+    <div style={{ padding: '2rem', textAlign: 'center' }}>
+      <h1>Benvenuto su Jobami!</h1>
+      <p>Hai effettuato correttamente l'accesso.</p>
     </div>
   );
 }
