@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <header style={styles.header}>
-        <img src="/logo.svg" alt="Jobami Logo" style={{ height: '50px' }} />
+        <img src="/logo.png" alt="Jobami Logo" style={{ height: '50px' }} />
         <nav>
           <Link href="/">Home</Link>
           <Link href="/login" style={styles.navLink}>Login</Link>
